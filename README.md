@@ -6,6 +6,12 @@
 I am very interested in the field of blockchain and I am currently working in this field .Backend programming experience(5 years - nodejs). Blockchain and solidity(+2 years)
 
 
+My skills : 
+javascript - nodejs - solidity - solidity security - truffle - ganache - web3 - unit test - blockchains infrastructure - defi - ipfs - alchemy - infura - moralis
+
+
+
+
 
 Some of my projects : 
 
